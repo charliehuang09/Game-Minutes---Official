@@ -1,0 +1,14 @@
+.label{
+    position: relative;
+    font-size: xx-large;
+    text-align: center;
+}
+.button{
+    margin: 10px;
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgba(73, 245, 73, 0.137);
+}
+body {
+  background-color: lightblue;
+}
